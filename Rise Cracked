@@ -1,6 +1,7 @@
 1. Download : https://www.mediafire.com/file/a3fxnv5e4mth2ai/Rise_6.0.zip/file
-2. Open Notepad As Administrator And Open : C:\Windows\System32\drivers\etc\hosts
-3. Once The Hosts Notepad Is Opened Paste This Line At The Bottom : 147.135.211.212     auth.riseclient.com
-4. Run Start
+2. Extract The Folder
+3. Open Notepad As Administrator And Open : C:\Windows\System32\drivers\etc\hosts
+4. Once The Hosts Notepad Is Opened Paste This Line At The Bottom : 147.135.211.212     auth.riseclient.com
+5. Run Start
 
 New Download Becauses Its 6.0.21 Now No More 6.0.20 👍
